@@ -3,7 +3,7 @@ pipeline {
 
     tools
     {
-        maven "Maven home"
+        maven "M2_HOME"
     }
 
     stages
